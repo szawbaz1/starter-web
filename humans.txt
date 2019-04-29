@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Faisal Ali Khan fasialalikk@gmail.com
 
 # THANKS
 
