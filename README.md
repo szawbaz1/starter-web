@@ -8,6 +8,6 @@ This is a simple is to show different parts of the git repository and various co
 as stated above , main purpose is to provide simple examples for git training demos
 ## DEPLOYMENT
 Please fork this 
-This is a simple website project, deploymentg can be on any webserver, more chanhes
+This is a simple website project, deploymentg can be on any webserver, more chanhesdsfdsf
 
 ## How to Contribute
