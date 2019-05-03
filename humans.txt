@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Faisal Ali Khan fasialalikk@gmail.com master
+    Faisal Ali Khan fasialalikk@gmail.com master checking git revert
 
 # THANKS
 
